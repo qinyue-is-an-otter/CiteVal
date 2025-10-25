@@ -1,4 +1,4 @@
-# CiteVal
+# SciCiteVal
 
 ### Introduction
 Our dataset is specifically designed for citation verification, it contains manual annotations labeling citations as ``Correct``, ``Incorrect`` or ``Unrelated``. For citations labeled ``Incorrect``, we further define five detailed sub-categories to characterize the nature of the inaccuracy. Each data sample is structured as a pair, consisting of the **citation context** from the citing paper and the corresponding **evidence passage** from the cited paper that justifies the label.
